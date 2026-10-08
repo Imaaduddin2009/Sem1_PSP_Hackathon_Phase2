@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 class BankAccount {
-    private String accountNumber;
-    private String accountHolderName;
-    private double balance;
+     String accountNumber;
+     String accountHolderName;
+     double balance;
 
     public BankAccount(String accountNumber, String accountHolderName, double balance) {
         this.accountNumber = accountNumber;
